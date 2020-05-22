@@ -9,3 +9,4 @@ Two Files Will Be There :-
  for Windows use :-
   first make sure mingw is installed and added to Your Enviornment Variable. 
   "g++ main.cpp" and then "a.exe" (without quotes)
+Preferred to Use Linux or Mac !
