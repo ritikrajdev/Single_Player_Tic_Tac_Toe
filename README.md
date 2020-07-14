@@ -9,14 +9,14 @@ Other for Linux / Mac to be opened in Terminal.
 
 For Linux u can :-
 
-  either use command "make" (without quotes) this Command will execute the required files and Run them !
+  either use command ```make``` this Command will compile the required file and Run them !
 
-  or use "g++ main.cpp" and then "a.out" (without quotes)
+  or use ```g++ main.cpp``` and then ```./a.out```
 
 for Windows use :-
 
   first make sure mingw is installed and added to Your Enviornment Variable. 
 
-  "g++ main.cpp" and then "a.exe" (without quotes)
+  ```g++ main.cpp``` and then ```a.exe```
 
 Preferred to Use Linux or Mac !
