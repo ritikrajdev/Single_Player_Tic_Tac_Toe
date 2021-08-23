@@ -9,14 +9,18 @@ Other for Linux / Mac to be opened in Terminal.
 
 For Linux u can :-
 
-  either use command ```make``` this Command will compile the required file and Run them !
+  either use command ```make``` this will compile the required file
 
-  or use ```g++ main.cpp``` and then ```./a.out```
+  execute `tic_tac_toe_urf_zero_kaati` file to start playing !!
+
+  Alternatively you can use ```g++ main.cpp``` and then ```./a.out```
 
 for Windows use :-
 
   first make sure mingw is installed and added to Your Enviornment Variable. 
 
   ```g++ main.cpp``` and then ```a.exe```
+
+  Alternatively you can execute the preadded `a.exe`
 
 Preferred to Use Linux or Mac !
